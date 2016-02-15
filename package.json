@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-mobileprinter",
+  "version": "1.2.1",
+  "description": "Cordova Mobile Printer Plugin",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cordova",
+    "mobileprinter",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "Sawmeng",
+  "license": "Apache 2.0"
+}

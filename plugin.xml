@@ -44,10 +44,10 @@
 
         <source-file src="src/android/lvrenyang" target-dir="src/com" />
         <source-file src="src/android/printerlibs.jar" target-dir="libs" />
-        <js-module src="settings.js" name="settings">
+        <js-module src="www/settings.js" name="settings">
             <clobbers target="settings" />
         </js-module>
-        <js-module src="mobileprinter.js" name="mobileprinter">
+        <js-module src="www/mobileprinter.js" name="mobileprinter">
             <clobbers target="navigator.mobileprinter" />
         </js-module>
 
